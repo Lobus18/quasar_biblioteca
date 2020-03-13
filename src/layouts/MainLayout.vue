@@ -43,23 +43,13 @@
 
             <q-item to = "/help" clickable exact v-ripple>
               <q-item-section avatar>
-                <q-icon name="help" />
-              </q-item-section>
-
-              <q-item-section>
-                Ajuda
-              </q-item-section>
-            </q-item>
-
-            <q-item to = "/Error404" clickable exact v-ripple>
-              <q-item-section avatar>
                 <q-icon name="group" />
               </q-item-section>
 
               <q-item-section>
-                Ajuda
+                Sobre-nós
               </q-item-section>
-            </q-item>
+            </q-item> 
           </q-list>
         </q-scroll-area>
 
